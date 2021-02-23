@@ -1,3 +1,6 @@
+Check my online shop here: https://vue-cli-tienda.web.app/index.html#/
+
+
 # tienda-firebase
 
 ## Project setup
