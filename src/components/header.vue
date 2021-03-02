@@ -4,7 +4,7 @@
     <nav class="nav">
       <div class="navbar">
         <div class="logo">
-          <a href="index.html"><img src="img/logo.png"></a>
+          <a href="index.html"><img src="../../public/img/logo.png"></a>
         </div>
         <div class="botones">
           <router-link to="/login"><i class="fas fa-user"></i><p>{{ nombre }}</p></router-link>

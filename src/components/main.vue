@@ -6,7 +6,7 @@
           <h2>Oferta</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta unde beatae ratione quos cupiditate ullam quas nam, incidunt quia qui?</p>
         </div>-->
-        <img src="img/oferta.jpeg">
+        <img src="../../public/img/Oferta.jpeg">
       </div>
     </div>
 
