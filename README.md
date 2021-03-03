@@ -1,4 +1,4 @@
-Check my online shop here: https://vue-cli-tienda.web.app/index.html#/
+Check my online shop here: https://aleexfr1.github.io/Tienda-firebase/
 
 
 # tienda-firebase
