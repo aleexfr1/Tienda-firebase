@@ -4,7 +4,7 @@
     <nav class="nav">
       <div class="navbar">
         <div class="logo">
-          <a href="index.html"><img src="../../public/img/logo.png"></a>
+          <a href="index.html"><img src="https://firebasestorage.googleapis.com/v0/b/vue-cli-tienda.appspot.com/o/logo.png?alt=media&token=1c3a6e1c-9b5a-42e6-934c-8d0a9b0c7330"></a>
         </div>
         <div class="botones">
           <router-link to="/login"><i class="fas fa-user"></i><p>{{ nombre }}</p></router-link>

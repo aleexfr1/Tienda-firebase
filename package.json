@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "firebase": "^8.2.9",
-    "firebase-tools": "^9.4.0",
+    "firebase-tools": "^9.5.0",
     "vue": "^2.6.11",
     "vue-list": "^1.0.3",
     "vue-notification": "^1.3.20",

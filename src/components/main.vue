@@ -6,7 +6,7 @@
           <h2>Oferta</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta unde beatae ratione quos cupiditate ullam quas nam, incidunt quia qui?</p>
         </div>-->
-        <img src="../../public/img/Oferta.jpeg">
+        <img src="https://firebasestorage.googleapis.com/v0/b/vue-cli-tienda.appspot.com/o/Oferta.jpeg?alt=media&token=09b11e82-c6bb-4ba8-940b-659234954f19">
       </div>
     </div>
 
