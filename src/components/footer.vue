@@ -3,9 +3,19 @@
   <div class="pie">
 
     <div class="Pagos">
-      <p><i class="fas fa-credit-card"></i>Métodos de Pago</p>
-      <i class="fab fa-cc-btc"></i>
-      <i class="fab fa-cc-paypal"></i>
+      <p>Métodos de Pago</p>
+      <a href="#"><i class="fas fa-cc-btc"></i></a>
+      <a href="#"><i class="fab fa-cc-paypal"></i></a>
+      <a href="#"><i class="fas fa-dollar-sign"></i></a>
+
+    </div>
+
+    <div class="Transporte">
+      <p>Transporte</p>
+      <a href="#"><i class="fas fa-car"></i></a>
+      <a href="#"><i class="fas fa-motorcycle"></i></a>
+      <a href="#"><i class="fas fa-truck-moving"></i></a>
+
     </div>
 
     <div class="redesSociales">
@@ -49,6 +59,7 @@
   .pie {
     grid-column: 1 / -1;
     grid-row: 4 / 5;
+    border: 1px;
 
 
     display: grid;
@@ -57,7 +68,7 @@
     grid-gap: 2rem;
     background-color: (rgba(color(primary), 0.3));
 
-    .partners{
+    .Pagos{
       grid-column: 1 / -1;
       @include navigation();
       @include response(lg){
@@ -65,7 +76,7 @@
       }
     }
 
-    .Pagos{
+    .Transporte{
       grid-column: 1 / -1;
       @include navigation();
       @include response(lg){
